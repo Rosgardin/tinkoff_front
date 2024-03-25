@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Дракоша",
+      "body": "Подарок игрушка",
+      "img": "https://samara.ko-snegiri.ru/upload/iblock/312/ogvd1hob4lxfnhp85kg9frs0dztuqloz.jpg",
+      "code": "1",
+      "deliever": "Снегири"
+    },
+    {
+      "id": 2,
+      "title": "Дракоша поменьше",
+      "body": "Подарок игрушка поменьше",
+      "img": "https://samara.ko-snegiri.ru/upload/iblock/274/vxjdbz69y6prit2blqthflq0x1yfzmc8.jpg",
+      "code": "2",
+      "deliever": "Снегири"
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 3
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 4
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 5
+    },
+    {
+      "title": "",
+      "body": "",
+      "img": "",
+      "code": "",
+      "deliever": "",
+      "id": 6
+    },
+    {
+      "id": 1,
+      "title": "Дракоша",
+      "body": "Подарок игрушка",
+      "img": "https://samara.ko-snegiri.ru/upload/iblock/312/ogvd1hob4lxfnhp85kg9frs0dztuqloz.jpg   ",
+      "code": "1",
+      "deliever": "Снегири"
+    },
+    {
+      "id": 1,
+      "title": "Дракоша",
+      "body": "Подарок игрушка",
+      "img": "https://samara.ko-snegiri.ru/upload/iblock/312/ogvd1hob4lxfnhp85kg9frs0dztuqloz.jpg   ",
+      "code": "1",
+      "deliever": "Снегири"
+    },
+    {
+      "id": 1,
+      "title": "Дракоша",
+      "body": "Подарок игрушка",
+      "img": "https://samara.ko-snegiri.ru/upload/iblock/312/ogvd1hob4lxfnhp85kg9frs0dztuqloz.jpg   ",
+      "code": "1",
+      "deliever": "Снегири"
+    },
+    {
+      "id": 1,
+      "title": "Дракоша",
+      "body": "Подарок игрушка",
+      "img": "https://samara.ko-snegiri.ru/upload/iblock/312/ogvd1hob4lxfnhp85kg9frs0dztuqloz.jpg   ",
+      "code": "1",
+      "deliever": "Снегири"
+    }
+  ],
+  "creatorInfo": {
+    "name": "Байбеков Рустам",
+    "group": "6408",
+    "repo": "https://github.com/Rosgardin"
+  }
+}
